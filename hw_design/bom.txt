@@ -1,0 +1,10 @@
+Part                    Price (Yen)     Amount      Value
+
+ATMEGA328P-AU           226             1
+MCP7940NT-I/ST          88              1
+ECS-.327-6-34QCN-TR     87              1           32.768 kHz
+06033A7R0DAT2A          29              2           7pF
+599-0010-007F           25              13          Red LED
+1072                    219             1           Batteryholder
+SMTU2032-C              102             1           Batteryholder
+PTS645SH432LFS          16              1           Push-button

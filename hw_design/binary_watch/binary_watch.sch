@@ -815,8 +815,6 @@ Wire Wire Line
 	10150 6000 10150 6200
 Wire Wire Line
 	3650 3750 10150 3750
-Text Label 4400 850  1    50   ~ 0
-VCC
 Text Label 4300 6400 1    50   ~ 0
 VCC
 Wire Wire Line
@@ -832,4 +830,16 @@ Wire Wire Line
 Wire Wire Line
 	4900 4250 4900 4050
 Connection ~ 4900 4050
+$Comp
+L power:VCC #PWR0102
+U 1 1 5FB53092
+P 3950 850
+F 0 "#PWR0102" H 3950 700 50  0001 C CNN
+F 1 "VCC" H 3965 1023 50  0000 C CNN
+F 2 "" H 3950 850 50  0001 C CNN
+F 3 "" H 3950 850 50  0001 C CNN
+	1    3950 850 
+	1    0    0    -1  
+$EndComp
+Connection ~ 3950 850 
 $EndSCHEMATC
